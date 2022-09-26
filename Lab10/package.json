@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ionic/cli": "^6.6.0",
+    "@ionic/cli": "^6.20.1",
     "@ionic/pwa-elements": "^1.5.2",
     "cordova-res": "^0.13.0",
     "native-run": "^1.0.0"
